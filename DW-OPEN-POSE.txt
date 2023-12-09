@@ -1,0 +1,1 @@
+Module: dw_openpose_full, Model: control_v11p_sd15_openpose_fp16 [73c2b67d], Weight: 1, Resize Mode: Crop and Resize, Low Vram: False, Processor Res: 512, Guidance Start: 0, Guidance End: 1, Pixel Perfect: False, Control Mode: ControlNet is more important, Save Detected Map: True
